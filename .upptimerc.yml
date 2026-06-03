@@ -16,12 +16,10 @@ status-website:
   # cname: status.viggy96.me
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Status
   introTitle: ""
-  introMessage: 
+  introMessage: ""
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
