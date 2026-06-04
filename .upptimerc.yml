@@ -3,10 +3,14 @@ owner: viggy96 # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Home Assistant
+    url: https://home-assistant.viggy96.me/manifest.json
   - name: Resume
     url: https://www.viggy96.me
   - name: Jellyfin
     url: https://jellyfin.viggy96.me
+  - name: Komga
+    url: https://komga.viggy96.me
   - name: Nextcloud
     url: https://nextcloud.viggy96.me
 
