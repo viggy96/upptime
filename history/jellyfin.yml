@@ -1,7 +1,7 @@
 url: https://jellyfin.viggy96.me
-status: up
-code: 200
-responseTime: 240
-lastUpdated: 2026-07-11T23:56:39.646Z
+status: down
+code: 404
+responseTime: 330
+lastUpdated: 2026-07-12T11:42:42.981Z
 startTime: 2026-05-31T09:32:33.859Z
 generator: Upptime <https://github.com/upptime/upptime>
