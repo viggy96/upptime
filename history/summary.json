@@ -40,18 +40,20 @@
     "url": "https://jellyfin.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.viggy96.me.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 240,
-    "timeWeek": 349,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 302,
+    "timeDay": 285,
+    "timeWeek": 347,
     "timeMonth": 314,
-    "timeYear": 301,
-    "dailyMinutesDown": {}
+    "timeYear": 302,
+    "dailyMinutesDown": {
+      "2026-07-12": 9
+    }
   },
   {
     "name": "Komga",
@@ -76,9 +78,9 @@
     "url": "https://nextcloud.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.viggy96.me.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 579,
     "timeMonth": 545,
     "timeYear": 533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-12": 0
+    }
   }
 ]
