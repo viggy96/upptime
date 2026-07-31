@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/home-assistant.viggy96.me.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 190,
-    "timeDay": 306,
-    "timeWeek": 202,
-    "timeMonth": 193,
-    "timeYear": 190,
+    "uptime": "99.93%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.93%",
+    "time": 189,
+    "timeDay": 220,
+    "timeWeek": 194,
+    "timeMonth": 191,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2026-07-31": 20
+      "2026-07-31": 55
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.viggy96.me.ico",
     "slug": "resume",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 215,
-    "timeDay": 171,
-    "timeWeek": 218,
-    "timeMonth": 201,
-    "timeYear": 215,
+    "uptime": "99.94%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.94%",
+    "time": 216,
+    "timeDay": 210,
+    "timeWeek": 222,
+    "timeMonth": 202,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2026-07-31": 15
+      "2026-07-31": 50
     }
   },
   {
@@ -44,20 +44,20 @@
     "url": "https://jellyfin.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.viggy96.me.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.42%",
-    "time": 305,
-    "timeDay": 196,
-    "timeWeek": 297,
-    "timeMonth": 315,
-    "timeYear": 305,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.38%",
+    "time": 303,
+    "timeDay": 201,
+    "timeWeek": 286,
+    "timeMonth": 312,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2026-07-12": 508,
-      "2026-07-31": 10
+      "2026-07-31": 46
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://komga.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/komga.viggy96.me.ico",
     "slug": "komga",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 173,
-    "timeDay": 227,
-    "timeWeek": 192,
-    "timeMonth": 170,
-    "timeYear": 173,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.95%",
+    "time": 176,
+    "timeDay": 306,
+    "timeWeek": 216,
+    "timeMonth": 177,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2026-07-31": 5
+      "2026-07-31": 41
     }
   },
   {
@@ -85,19 +85,20 @@
     "url": "https://nextcloud.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.viggy96.me.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.43%",
-    "time": 538,
-    "timeDay": 520,
-    "timeWeek": 527,
-    "timeMonth": 547,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.39%",
+    "time": 690,
+    "timeDay": 5638,
+    "timeWeek": 1805,
+    "timeMonth": 857,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2026-07-12": 501
+      "2026-07-12": 501,
+      "2026-07-31": 36
     }
   }
 ]
