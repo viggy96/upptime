@@ -1,7 +1,7 @@
 url: https://home-assistant.viggy96.me/manifest.json
-status: down
-code: 404
-responseTime: 147
-lastUpdated: 2026-08-01T12:41:12.844Z
+status: up
+code: 200
+responseTime: 386
+lastUpdated: 2026-08-01T14:11:27.411Z
 startTime: 2026-06-04T07:39:22.692Z
 generator: Upptime <https://github.com/upptime/upptime>
