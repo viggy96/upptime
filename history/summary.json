@@ -4,10 +4,10 @@
     "url": "https://home-assistant.viggy96.me/manifest.json",
     "icon": "https://icons.duckduckgo.com/ip3/home-assistant.viggy96.me.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "85.99%",
-    "uptimeWeek": "98.00%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "97.99%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.76%",
     "time": 196,
@@ -17,7 +17,7 @@
     "timeYear": 196,
     "dailyMinutesDown": {
       "2026-07-31": 55,
-      "2026-08-01": 146
+      "2026-08-01": 147
     }
   },
   {
@@ -25,10 +25,10 @@
     "url": "https://www.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.viggy96.me.ico",
     "slug": "resume",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.67%",
-    "uptimeWeek": "98.10%",
+    "uptimeDay": "86.62%",
+    "uptimeWeek": "98.09%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.79%",
     "time": 215,
@@ -38,7 +38,7 @@
     "timeYear": 215,
     "dailyMinutesDown": {
       "2026-07-31": 50,
-      "2026-08-01": 141
+      "2026-08-01": 142
     }
   },
   {
@@ -46,9 +46,9 @@
     "url": "https://jellyfin.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.viggy96.me.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "76.01%",
+    "uptimeDay": "75.98%",
     "uptimeWeek": "96.57%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "99.05%",
@@ -68,9 +68,9 @@
     "url": "https://komga.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/komga.viggy96.me.ico",
     "slug": "komga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "84.11%",
+    "uptimeDay": "84.09%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.73%",
@@ -90,11 +90,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.viggy96.me.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "77.30%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "99.08%",
+    "uptime": "99.01%",
+    "uptimeDay": "72.88%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "99.01%",
     "time": 689,
     "timeDay": 5702,
     "timeWeek": 1817,
@@ -103,7 +103,7 @@
     "dailyMinutesDown": {
       "2026-07-12": 501,
       "2026-07-31": 36,
-      "2026-08-01": 291
+      "2026-08-01": 355
     }
   }
 ]
