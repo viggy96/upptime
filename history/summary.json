@@ -48,17 +48,17 @@
     "url": "https://jellyfin.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.viggy96.me.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "97.86%",
-    "time": 343,
-    "timeDay": 324,
-    "timeWeek": 384,
-    "timeMonth": 450,
-    "timeYear": 343,
+    "time": 341,
+    "timeDay": 233,
+    "timeWeek": 354,
+    "timeMonth": 441,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2026-07-12": 508,
       "2026-07-31": 46,
@@ -66,7 +66,8 @@
       "2026-08-02": 382,
       "2026-08-05": 258,
       "2026-08-04": 731,
-      "2026-08-11": 326
+      "2026-08-11": 326,
+      "2026-09-08": 0
     }
   },
   {
