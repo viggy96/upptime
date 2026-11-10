@@ -4,16 +4,16 @@
     "url": "https://home-assistant.viggy96.me/manifest.json",
     "icon": "https://icons.duckduckgo.com/ip3/home-assistant.viggy96.me.ico",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "92.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "92.01%",
+    "status": "down",
+    "uptime": "92.03%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "92.03%",
     "time": 187,
     "timeDay": 317,
     "timeWeek": 180,
-    "timeMonth": 185,
+    "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2026-07-31": 55,
@@ -32,7 +32,8 @@
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
-      "2026-09-28": 297
+      "2026-09-28": 297,
+      "2026-11-10": 20
     }
   },
   {
@@ -40,16 +41,16 @@
     "url": "https://www.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.viggy96.me.ico",
     "slug": "resume",
-    "status": "up",
-    "uptime": "92.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "92.21%",
+    "status": "down",
+    "uptime": "92.22%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "92.22%",
     "time": 224,
     "timeDay": 173,
     "timeWeek": 230,
-    "timeMonth": 223,
+    "timeMonth": 225,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2026-07-31": 50,
@@ -68,7 +69,8 @@
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
-      "2026-09-28": 296
+      "2026-09-28": 296,
+      "2026-11-10": 15
     }
   },
   {
@@ -76,16 +78,16 @@
     "url": "https://jellyfin.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.viggy96.me.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "91.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "91.25%",
+    "status": "down",
+    "uptime": "91.27%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "91.27%",
     "time": 342,
     "timeDay": 438,
     "timeWeek": 324,
-    "timeMonth": 340,
+    "timeMonth": 344,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2026-07-12": 508,
@@ -109,7 +111,8 @@
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
-      "2026-09-28": 296
+      "2026-09-28": 296,
+      "2026-11-10": 10
     }
   },
   {
@@ -117,16 +120,16 @@
     "url": "https://komga.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/komga.viggy96.me.ico",
     "slug": "komga",
-    "status": "up",
-    "uptime": "92.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "92.00%",
+    "status": "down",
+    "uptime": "92.02%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "92.02%",
     "time": 217,
     "timeDay": 144,
     "timeWeek": 308,
-    "timeMonth": 279,
+    "timeMonth": 284,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2026-07-31": 41,
@@ -145,7 +148,8 @@
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
-      "2026-09-28": 296
+      "2026-09-28": 296,
+      "2026-11-10": 5
     }
   },
   {
@@ -153,16 +157,16 @@
     "url": "https://nextcloud.viggy96.me",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.viggy96.me.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "91.91%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.93%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "91.91%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "91.93%",
     "time": 696,
     "timeDay": 482,
     "timeWeek": 553,
-    "timeMonth": 698,
+    "timeMonth": 704,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2026-07-12": 501,
@@ -182,7 +186,8 @@
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
-      "2026-09-28": 296
+      "2026-09-28": 296,
+      "2026-11-10": 0
     }
   }
 ]
